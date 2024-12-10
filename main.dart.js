@@ -30629,7 +30629,8 @@ A.a35.prototype={
 $0(){this.a.w=!1},
 $S:0}
 A.a3d.prototype={
-$0(){return this.a.lr("2")},
+$0(){var s=this.a
+return s.lr(s.a.c==="1"?"2":"1")},
 $S:0}
 A.yb.prototype={
 dJ(a,b){return J.f(a,b)},
